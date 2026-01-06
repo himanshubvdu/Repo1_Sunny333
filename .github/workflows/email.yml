@@ -17,13 +17,13 @@ jobs:
           # Enter SMTP host account password.
           password: 'umjt fiyw vziy lmxo'
           # Enter sender name.
-          sender: Sunny
+          sender: 'Sunny'
           # Enter sender mail.
           from: fullstackdeveloper.sunny@gmail.com
           # Enter recipient emails and separated with 'comma'. (The prefix 'file://' if you want to read a file)
           to: himanshu.bvdu04@gmail.com
           # Enter the subject of the mail. (The prefix 'file://' if you want to read a file)
-          subject: email from github
+          subject: 'email from github'
           # Enter the body of the mail. (The prefix 'file://' if you want to read a file)
-          body: test email from github
+          body: 'test email from github'
                 
