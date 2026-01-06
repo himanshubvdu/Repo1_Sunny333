@@ -26,4 +26,6 @@ jobs:
           subject: "email from github"
           # Enter the body of the mail. (The prefix 'file://' if you want to read a file)
           body: "test email from github"
-                
+          contentType: text/plain
+          attachments: '[]'
+      
